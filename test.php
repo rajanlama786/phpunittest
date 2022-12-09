@@ -29,3 +29,5 @@ function divisible_five( $i ){
 	}
 	return false;
 }
+
+// to run the test ./vendor/bin/phpunit test/TestResult.php
