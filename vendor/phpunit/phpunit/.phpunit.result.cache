@@ -1,0 +1,1 @@
+{"version":1,"defects":{"TestResult::testCreateMyClass":3},"times":{"TestResult::testCreateMyClass":0.004,"TestResult::testDivisibleOfThree":0.003,"TestResult::testNotDivisibleOfThree":0.001,"TestResult::testDivisibleOfFive":0,"TestResult::testNotDivisibleOfFive":0}}
